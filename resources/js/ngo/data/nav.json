@@ -1,0 +1,16 @@
+{
+  "main": [
+    { "label": "About", "href": "#about" },
+    { "label": "Our Work", "href": "#work" },
+    { "label": "Activities", "href": "/activities" },
+    { "label": "Reports", "href": "#reports" },
+    { "label": "Contact", "href": "#contact" },
+    { "label": "Get Involved", "href": "#involved", "primary": true }
+  ],
+  "quick": [
+    { "label": "About Us", "href": "#about" },
+    { "label": "Our Work", "href": "#work" },
+    { "label": "Activities", "href": "/activities" },
+    { "label": "Reports & Notices", "href": "#reports" }
+  ]
+}
